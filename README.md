@@ -193,18 +193,6 @@ Follow every rule in the file, especially:
 - apply the described lighting and retouching style
 ```
 
----
-
-## License
-
-You can choose any license for this repository.
-
-Suggested options:
-- MIT License if you want others to freely use and adapt the files
-- Creative Commons Attribution 4.0 if you want credit when people use the style files
-- Private repository if these files are part of your personal creative system
-
----
 
 ## Author
 
