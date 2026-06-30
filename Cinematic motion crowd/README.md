@@ -22,3 +22,7 @@ Use the attached Design.md file as the full creative direction.
 Transform my uploaded portrait into the same cinematic motion-crowd wallpaper style.
 Preserve my identity, but recreate the pose, scene, lighting, crowd blur, and black-and-white editorial treatment.
 ```
+
+## Direct Files
+- [Design.md](./Design.md)
+- [Result 1.jpg](./Result%201.jpg)
